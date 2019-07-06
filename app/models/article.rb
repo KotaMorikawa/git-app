@@ -1,4 +1,4 @@
 class Article < ApplicationRecord
     validates_presence_of(:title)
-    #kkkkk
+    #kkkkkkkkk
 end
